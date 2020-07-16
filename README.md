@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Tindev" title="Tindev" src=".github/logo.png" width="250px" />
+    <img alt="Tindev" title="Tindev" src=".github/logo.svg" width="250px" />
 </h1>
 
 <h4 align="center">
